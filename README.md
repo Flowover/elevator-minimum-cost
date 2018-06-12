@@ -1,5 +1,5 @@
 # elevator-minimum-cost
-At the begining we have nrid people that we will use the elevator. We give it as an input. 
+At the begining we have nrid people that  will use the elevator. We give it as an input. 
 Then we give as an input the destinations of the person's and the  number of   elevator stations. 
 The people who want to go at the floor that elevator stops costs zero.
 The people who want to go to any floor except the floor that elevator stops must go on foot.
