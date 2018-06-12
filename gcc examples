@@ -1,0 +1,5 @@
+DP : gcc -DP  executable.c elevator.c fun.c
+
+REC : gcc - DREC executable.c elevator.c fun.c
+
+REC with mem: gcc - DMEM  executable.c elevator.c fun.c
