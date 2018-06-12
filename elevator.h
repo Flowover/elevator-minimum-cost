@@ -1,0 +1,10 @@
+int* allocate_array(int nrid);
+void scanArray(int nrid, int *dests);
+void printArray(int nrid,int *dests);
+int fw(int a,int b, int *dests, int nrid);
+int nfl(int *dests, int nrid);
+int M(int i, int j, int *dests , int nrid);
+int Mm(int i, int j, int *dests, int nrid, int **M);
+int solve(int nrid, int nst, int *dests);
+int** allocateArray(int x, int y);
+void printArray2(int nfl, int nst, int **array);
